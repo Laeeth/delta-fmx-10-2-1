@@ -1,0 +1,13 @@
+{
+	"name": "ttimer",
+	"authors": [
+		"Andre Pany"
+	],
+	"dependencies": {
+		"delta-core-10-2-1": "~>0.0.1",
+		"delta-fmx-10-2-1": "~>0.0.1"
+	},
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2017, Andre Pany",
+	"license": "Boost Software License 1.0"
+}
